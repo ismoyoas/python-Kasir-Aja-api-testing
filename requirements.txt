@@ -1,0 +1,6 @@
+assertpy==1.1
+curlify==2.2.1
+pytest==7.4.3
+pytest-html==4.1.1
+requests==2.28.2
+urllib3==1.26.14
